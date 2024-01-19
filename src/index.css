@@ -1,8 +1,15 @@
 body {
   font: 14px "Apple SD Gothic";
   margin-top: 20px;
+  background-color: #2c3e50;
+  margin: 0;
+  padding: 0;
 }
 ol,
 ul {
-  padding-left: 30px;
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
 }
